@@ -4,11 +4,11 @@ Tô muito feliz com esse projeto, demorei em cerca 1 hora pra fazer esse joguinh
 O programa escolhe um numero aleatório entre 1 e 10, e o jogador tenta descobrir qual o número a máquina está pensando.
 
 O jogo conta com:
-· Números aleatóriosntra
-· Palpites pelo terminal
-· Dicas
-· Contador de tentativas
-· Verificação de entradas válidas
+- Números aleatóriosntra
+- Palpites pelo terminal
+- Dicas
+- Contador de tentativas
+- Verificação de entradas válidas
 
 ## O que aprendi fazendo esse projeto?
 Nesse projeto eu pude praticar:
