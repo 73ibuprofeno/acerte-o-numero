@@ -10,21 +10,21 @@ O jogo conta com:
 · Contador de tentativas
 · Verificação de entradas válidas
 
-# O que aprendi fazendo esse projeto?
+## O que aprendi fazendo esse projeto?
 Nesse projeto eu pude praticar:
 
-· Variáveis (como sempre, óbvio kkkkkkkk)
-· Entrada de dados (io.read)
-· Conversão de valores (tonumber())
-· Números aleatórios (math.random)
-· Condições (if, else, elseif e end)
-· Operadores de comparação (==, ~=, < e >)
-· Repetição com while
-· Contador de tentativas
-· Concatenação com .. (eu acho isso brabo)
+- Variáveis (como sempre, óbvio kkkkkkkk)
+- Entrada de dados (io.read)
+- Conversão de valores (tonumber())
+- Números aleatórios (math.random)
+- Condições (if, else, elseif e end)
+- Operadores de comparação (==, ~=, < e >)
+- Repetição com while
+- Contador de tentativas
+- Concatenação com .. (eu acho isso brabo)
 
-# Como executar
+### Como executar
 Você obviamente precisa ter lua instalado.
 
-# Sobre o projeto
+#### Sobre o projeto
 Esse é meu segundo projeto em Lua, fico muito feliz em saber que estou aprendendo bastante sobre essa linguagem, que é a minha favorita kkkkkkkkkkkkk
