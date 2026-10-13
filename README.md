@@ -24,7 +24,7 @@ Nesse projeto eu pude praticar:
 - Concatenação com .. (eu acho isso brabo)
 
 ### Como executar
-Você obviamente precisa ter lua instalado.
+Você obviamente precisa ter Lua instalado.
 
 #### Sobre o projeto
 Esse é meu segundo projeto em Lua, fico muito feliz em saber que estou aprendendo bastante sobre essa linguagem, que é a minha favorita kkkkkkkkkkkkk
